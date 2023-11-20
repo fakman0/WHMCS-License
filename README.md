@@ -3,10 +3,10 @@ La verdad me divertí bastante haciendo esto, aunque fue bastante desafiante el 
 
 ![Force Check](https://github.com/jesussuarz/whmcs-nulled-license-full-update/blob/main/force_license.png?raw=true)
 
-https://github.com/jesussuarz/whmcs-nulled-license-full-update/blob/main/force_license.png?raw=true
 ¿Entonces cómo funciona? Simplemente reemplace el archivo de License.php en la ubicación de su whmcs antes o después de instalar el software. La ruta es: 
+```
 /vendor/whmcs/whmcs-foundation/lib/License.php
-
+```
 Siéntete en libertad de colocar cualquier número licencia tanto en la instalación inicial, como después de instalarlo en el archivo de configuration.php, ya que todo se verifica con el archivo de License.php
 
 **Reitero, con esta solución usted puede tener WHMCS FULL, y con todas actualizaciones oficiales de WHMCS. (puedes revisar el código, mi idea fue dejar el código con casi todas las validaciones originales y solo ajustar lo necesario para que el software pudiese pensar que tenia una licencia valida, pero todo se valida con los servidores de WHMCS:**
