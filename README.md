@@ -21,4 +21,7 @@ Siéntete en libertad de colocar cualquier número licencia tanto en la instalac
 
 Si tienes dudas, puedes abrir un problema en: [https://github.com/jesussuarz/whmcs-nulled-license-full-update/issues](https://github.com/jesussuarz/whmcs-nulled-license-full-update/issues) (lo resolveré tan pronto sea posible). You can write the problem in English.
 
+Por ultimo quiero mencionar que este proyecto lo comence porque estaba buscando la forma de demostrar si era posible emular el servidor de licencias de whmcs, por el momento aun no lo he logrado, sin embargo pude lograr que hiciera actualizaciones desde los repositorios oficiales de WHMCS, Asi que en parte cumpli mi objetivo, espero que esto ayude a muchos en el futuro.
+
+
 Quiero dar gracias especiales al equipo de https://easytoyou.eu/ y muy en especial a “miguel” que estuvo dispuesto a ofrecer sus servicios para descifrar la última versión del archivo de Licencias de WHMCS para lograr esto.
