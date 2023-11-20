@@ -1,17 +1,20 @@
-# WHMCS LICENSE.PHP FULL UPDATE
-La verdad me divertí bastante haciendo esto, aunque fue bastante desafiante el trabajo de lograrlo, invertí muchas horas de investigación para simplificar la solución, mi objetivo era solo ver si era posible lograr tener actualizaciones de WHMCS gratis, (aunque ya no uso WHMCS para mis proyectos), desde hace años he aportado mucho conocimiento a esta comunidad, intente reportar este problema sin embargo WHMCS no esta interesada en resolverlo, por eso decidí publicar esto para quienes deseen usar este maravilloso software para sus proyectos. 
+# BYPASS AND NULLED WHMCS LICENSE.PHP
+
+Me complace compartir el resultado de mi reciente proyecto de actualización completa del archivo License.php para WHMCS. Aunque fue un desafío, disfruté cada momento dedicado a investigar y simplificar la solución. A lo largo de los años, he contribuido significativamente a esta comunidad, y a pesar de mis intentos de informar sobre este problema a WHMCS, la respuesta no fue positiva. Por esta razón, decidí compartir esta solución con aquellos que deseen utilizar este increíble software para sus proyectos.
 
 ![Force Check](https://github.com/jesussuarz/whmcs-nulled-license-full-update/blob/main/img/force_license.png?raw=true)
 
-¿Entonces cómo funciona? Simplemente reemplace el archivo de License.php en la ubicación de su whmcs antes o después de instalar el software. La ruta es: 
+¿Cómo funciona? Simplemente reemplace el archivo License.php en la ubicación de su instalación de WHMCS, ya sea antes o después de instalar el software. La ruta es:
+
 ```
 /vendor/whmcs/whmcs-foundation/lib/License.php
 ```
-**Este archivo de licencias esta orientado a versiones sobre la > v8.7.x**
+**Este archivo de licencias está diseñado para versiones superiores a v8.7.x.**
 
-Siéntete en libertad de colocar cualquier número licencia tanto en la instalación inicial, como después de instalarlo en el archivo de configuration.php, ya que todo se verifica con el archivo de License.php
+Siéntase libre de ingresar cualquier número de licencia tanto en la instalación inicial como después de instalarlo en el archivo configuration.php. Todo se verifica con el archivo License.php.
 
-**Reitero, con esta solución usted puede tener WHMCS FULL, y con todas actualizaciones oficiales de WHMCS. (puedes revisar el código, mi idea fue dejar el código con casi todas las validaciones originales y solo ajustar lo necesario para que el software pudiese pensar que tenia una licencia valida, pero todo se valida con los servidores de WHMCS:**
+Reitero, con esta solución, puede tener WHMCS COMPLETO con todas las actualizaciones oficiales de WHMCS. (Puede revisar el código; mi enfoque fue mantener casi todas las validaciones originales y ajustar solo lo necesario para que el software crea que tiene una licencia válida. Sin embargo, todas las validaciones se realizan con los servidores de WHMCS:
+
 ```
     const LICENSE_API_HOSTS = ["a.licensing.whmcs.com", "b.licensing.whmcs.com", "c.licensing.whmcs.com", "d.licensing.whmcs.com", "e.licensing.whmcs.com", "f.licensing.whmcs.com"];
     const STAGING_LICENSE_API_HOSTS = ["hou-1.licensing.web.staging.whmcs.com"];
@@ -19,9 +22,8 @@ Siéntete en libertad de colocar cualquier número licencia tanto en la instalac
 
 ![Check Update](https://github.com/jesussuarz/whmcs-nulled-license-full-update/blob/main/img/update_check.png?raw=true)
 
-Si tienes dudas, puedes abrir un problema en: [https://github.com/jesussuarz/whmcs-nulled-license-full-update/issues](https://github.com/jesussuarz/whmcs-nulled-license-full-update/issues) (lo resolveré tan pronto sea posible). You can write the problem in English.
+Si tiene alguna pregunta o inquietud, no dude en abrir un problema en: https://github.com/jesussuarz/whmcs-nulled-license-full-update/issues (resolveré cualquier problema tan pronto como sea posible). También puede plantear el problema en inglés.
 
-Por ultimo quiero mencionar que este proyecto lo comence porque estaba buscando la forma de demostrar si era posible emular el servidor de licencias de whmcs, por el momento aun no lo he logrado, sin embargo pude lograr que hiciera actualizaciones desde los repositorios oficiales de WHMCS, Asi que en parte cumpli mi objetivo, espero que esto ayude a muchos en el futuro.
+Por último, quiero expresar mi agradecimiento especial al equipo de https://easytoyou.eu/ y, en particular, a "Miguel" por ofrecer sus servicios para descifrar la última versión del archivo de licencias de WHMCS, lo que hizo posible este proyecto.
 
-
-Quiero dar gracias especiales al equipo de https://easytoyou.eu/ y muy en especial a “miguel” que estuvo dispuesto a ofrecer sus servicios para descifrar la última versión del archivo de Licencias de WHMCS para lograr esto.
+Para obtener más detalles sobre este proyecto, puede visitar mi publicación en LinkedIn: https://www.linkedin.com/posts/jesussuarz_github-jesussuarzwhmcs-nulled-license-full-update-activity-7132283748267503616-N8wx
