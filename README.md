@@ -1,4 +1,4 @@
-# WHMCS LICENSE FULL UPDATE
+# WHMCS LICENSE.PHP FULL UPDATE
 La verdad me divertí bastante haciendo esto, aunque fue bastante desafiante el trabajo de lograrlo, invertí muchas horas de investigación para simplificar la solución, mi objetivo era solo ver si era posible lograr tener actualizaciones de WHMCS gratis, (aunque ya no uso WHMCS para mis proyectos), desde hace años he aportado mucho conocimiento a esta comunidad, intente reportar este problema sin embargo WHMCS no esta interesada en resolverlo, por eso decidí publicar esto para quienes deseen usar este maravilloso software para sus proyectos. 
 
 ![Force Check](https://github.com/jesussuarz/whmcs-nulled-license-full-update/blob/main/img/force_license.png?raw=true)
