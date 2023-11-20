@@ -7,6 +7,8 @@ La verdad me divertí bastante haciendo esto, aunque fue bastante desafiante el 
 ```
 /vendor/whmcs/whmcs-foundation/lib/License.php
 ```
+**Este archivo de licencias esta orientado a versiones sobre la > v8.7.x**
+
 Siéntete en libertad de colocar cualquier número licencia tanto en la instalación inicial, como después de instalarlo en el archivo de configuration.php, ya que todo se verifica con el archivo de License.php
 
 **Reitero, con esta solución usted puede tener WHMCS FULL, y con todas actualizaciones oficiales de WHMCS. (puedes revisar el código, mi idea fue dejar el código con casi todas las validaciones originales y solo ajustar lo necesario para que el software pudiese pensar que tenia una licencia valida, pero todo se valida con los servidores de WHMCS:**
