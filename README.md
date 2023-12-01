@@ -1,4 +1,4 @@
-# BYPASS AND NULLED WHMCS LICENSE.PHP
+# WHMCS License Bypass with Updates (License.php)
 
 I am pleased to share the result of my recent complete update project for the License.php file in WHMCS. Although it was a challenge, I enjoyed every moment dedicated to researching and simplifying the solution. Over the years, I have contributed significantly to this community, and despite my attempts to report this issue to WHMCS, the response was not positive. For this reason, I decided to share this solution with those who wish to use this incredible software for their projects
 
