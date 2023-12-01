@@ -24,6 +24,9 @@ Reitero, con esta solución, puede tener WHMCS COMPLETO con todas las actualizac
 
 Si tiene alguna pregunta o inquietud, no dude en abrir un problema en: https://github.com/jesussuarz/whmcs-nulled-license-full-update/issues (resolveré cualquier problema tan pronto como sea posible). También puede plantear el problema en inglés.
 
+Tenga en cuenta que puede obtener versiones oficiales tan solo en el siguiente enlace: https://s3.amazonaws.com/releases.whmcs.com/v2/pkgs/whmcs-8.8.0-release.1.zip (solo cambia la version del release y obtendras versiones sin ninguna modificacion)
+
 Por último, quiero expresar mi agradecimiento especial al equipo de https://easytoyou.eu/ y, en particular, a "Miguel" por ofrecer sus servicios para descifrar la última versión del archivo de licencias de WHMCS, lo que hizo posible este proyecto.
 
 Para obtener más detalles sobre este proyecto, puede visitar mi publicación en LinkedIn: https://www.linkedin.com/posts/jesussuarz_github-jesussuarzwhmcs-nulled-license-full-update-activity-7132283748267503616-N8wx
+
