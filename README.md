@@ -20,6 +20,12 @@ I reiterate, with this solution, you can have a FULL WHMCS with all official WHM
     const STAGING_LICENSE_API_HOSTS = ["hou-1.licensing.web.staging.whmcs.com"];
 ```
 
+When you finish installing your license file, you must force the update of your local license, to do this execute the red "force license update" button that appears in:
+
+```
+"whmcs_path/admin/help/license"
+```
+
 ![Check Update](https://github.com/jesussuarz/whmcs-nulled-license-full-update/blob/main/img/update_check.png?raw=true)
 
 If you have any questions or concerns, feel free to open an issue at: https://github.com/jesussuarz/whmcs-nulled-license-full-update/issues (I will address any issue as soon as possible.). You can also raise the problem in Spanish.
