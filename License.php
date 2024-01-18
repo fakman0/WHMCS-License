@@ -329,7 +329,7 @@ class License
             "requiresupdates" => null,
             "updatevalditydate" => "2020-12-14T00:00:00-06:00",
             "configoptions" => ["TOTP" => "Yes"],
-            "addons" => [],
+            "addons" => [array('name' => 'Branding Removal', 'nextduedate' => '2050-09-13', 'status' => 'Active'), array('name' => 'Support and Updates', 'nextduedate' => '2050-09-13', 'status' => 'Active'), array('name' => 'Project Management Addon', 'nextduedate' => '2050-09-13', 'status' => 'Active'), array('name' => 'Licensing Addon', 'nextduedate' => '2050-09-13', 'status' => 'Active'), array('name' => 'Mobile Edition', 'nextduedate' => '2050-09-13', 'status' => 'Active'), array('name' => 'iPhone App', 'nextduedate' => '2050-09-13', 'status' => 'Active'), array('name' => 'Android App', 'nextduedate' => '2050-09-13', 'status' => 'Active'), array('name' => 'Configurable Package Addon', 'nextduedate' => '2050-09-13', 'status' => 'Active'), array('name' => 'Live Chat Monthly No Branding', 'nextduedate' => '2050-09-13', 'status' => 'Active')],
             "BrandingRemoval" => null,
             "registeredname" => "Repo Git: https://github.com/jesussuarz/whmcs-nulled-license-full-update",
             "productname" => "Owned License No Branding",
