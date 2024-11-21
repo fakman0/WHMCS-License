@@ -943,7 +943,9 @@ class License
         $hmacCalculated = hash_hmac("sha256", $hashable, $hashKey);
         return (bool) hash_equals($hmacCalculated, $hmacGiven);
     }
-
+    public function getRegistrationDate(){
+        
+    }
 }
 
 ?>
